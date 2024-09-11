@@ -9,7 +9,7 @@ export const HeroSection = () => {
                 <div className="container">
                     <div>
                         <p className="uppercase font-extrabold text-center text-zinc-500 tracking-wider">Revolutionize Your Identity</p>
-                        <h1 className="font-heading font-black text-6xl md:text-7xl text-center mt-4 max-w-4xl mx-auto">Next-Gen Secure Identity Verification</h1>
+                        <h1 className="font-heading font-black text-6xl md:text-7xl text-center mt-4 max-w-3xl mx-auto">Next-Gen Secure Identity Verification</h1>
                         <p className="text-center text-xl mt-6 md:text-2xl text-zinc-400 max-w-xl mx-auto">Unlock secure, private identity verification with Zero-Knowledge Proofs.Decentralized issuance and KYC, keeping your data safe and trusted.</p>
                     </div>
                     <div className="flex justify-center mt-10">
