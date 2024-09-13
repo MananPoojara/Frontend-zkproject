@@ -11,4 +11,8 @@ export default defineConfig({
     }),
     react(),
   ],
+  routes: [
+    { path: '/', component: 'src/pages/index.astro' },
+    { path: '/dashboard', component: 'src/pages/dashboard.astro' },
+  ],
 });
